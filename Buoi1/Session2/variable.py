@@ -1,0 +1,5 @@
+a = float (input ("Nhap vao day lon hinh thang: "))
+b = float (input ("Nhap vao day nho hinh thang: "))
+c = float (input ("Nhap vao duong cao hinh thang: "))
+s = ((a+b)*c/2)
+print ("Diện tích hình thang: ",s)
